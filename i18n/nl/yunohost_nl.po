@@ -1,0 +1,277 @@
+# Translation admin ui yunohost
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Jacob Korf, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: YunoHost\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-08 18:53+0200\n"
+"PO-Revision-Date: 2013-09-11 20:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Language: Dutch\n"
+
+#: views/error_layout.html.php:26
+msgid "Page Not Found :("
+msgstr "Pagina niet gevonden :("
+
+#: views/error_layout.html.php:44
+msgid "Not found <span>:(</span>"
+msgstr "Niet gevonden <span>:(</span>"
+
+#: views/error_layout.html.php:47
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "Sorry, maar de pagina die u probeert te bekijken bestaat niet."
+
+#: views/error_layout.html.php:48
+msgid "It looks like this was the result of either:"
+msgstr "Het lijkt erop dat dit het resultaat is van:"
+
+#: views/error_layout.html.php:50
+msgid "a mistyped address"
+msgstr "een fout getyped adres"
+
+#: views/error_layout.html.php:51
+msgid "an out-of-date link"
+msgstr "een link die niet up-to-date is"
+
+#: views/error_layout.html.php:54
+msgid "Details:"
+msgstr "Details:"
+
+#: views/homepage.html.php:33 controllers/tools.php:265
+msgid "System upgrade"
+msgstr "Systeem upgrade"
+
+#: views/homepage.html.php:38
+msgid "Quick access"
+msgstr "Snelle toegang"
+
+#: views/homepage.html.php:42
+msgid "Public site"
+msgstr "Publieke site"
+
+#: views/homepage.html.php:47 views/layout.html.php:63
+msgid "Applications"
+msgstr "Applicaties"
+
+#: views/homepage.html.php:52
+msgid "Administration"
+msgstr "Beheer"
+
+#: views/homepage.html.php:57
+msgid "You should fix your DNS configuration."
+msgstr "U moet uw DNS configuratie repareren."
+
+#: views/homepage.html.php:63
+msgid "Certification"
+msgstr "Certificering"
+
+#: views/homepage.html.php:64
+msgid ""
+"To avoid untrusted security certificate warnings, you have to import "
+"certificate authority into your browser."
+msgstr ""
+"Om waarschuwingen van onvertrouwde beveiligings certificaten te voorkomen "
+"moet u de certificaat autoriteit in de browser importeren."
+
+#: views/homepage.html.php:65
+msgid "Import certificate authority"
+msgstr "Importeer certificaat autoriteit"
+
+#: views/homepage.html.php:65
+msgid "Need help ?"
+msgstr "Hulp nodig?"
+
+#: views/listUser.html.php:92
+msgid "Delete user "
+msgstr "Verwijder gebruiker"
+
+#: views/listUser.html.php:92
+msgid " ? Are you sure ?"
+msgstr "? Weet u dit zeker ?"
+
+#: views/listUser.html.php:104
+msgid "Domain"
+msgstr "Domein"
+
+#: views/listUser.html.php:114
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: views/listUser.html.php:118
+msgid "Mail"
+msgstr "E-mailadres"
+
+#: views/listUser.html.php:124
+msgid "Firstname"
+msgstr "Voornaam"
+
+#: views/listUser.html.php:128
+msgid "Lastname"
+msgstr "Achternaam"
+
+#: views/listUser.html.php:134
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: views/listUser.html.php:138
+msgid "Confirm password"
+msgstr "Bevestig wachtwoord"
+
+#: views/listUser.html.php:147
+msgid "Create"
+msgstr "Aanmaken"
+
+#: views/listUser.html.php:151
+msgid "required fields"
+msgstr "verplichte velden"
+
+#: views/layout.html.php:57
+msgid "Users"
+msgstr "Gebruikers"
+
+#: views/layout.html.php:60
+msgid "Domains"
+msgstr "Domeinen"
+
+#: views/layout.html.php:66
+msgid "Log out"
+msgstr "Uitloggen"
+
+#: views/layout.html.php:82
+msgid "Notice"
+msgstr "Bericht"
+
+#: views/layout.html.php:101
+msgid "Showing _START_ to _END_ of _TOTAL_"
+msgstr "_START_ tot _END_ van _TOTAL_"
+
+#: views/layout.html.php:102
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(gefilterd uit totaal _MAX_ items)"
+
+#: views/postinstall.html.php:17
+msgid "Domain name"
+msgstr "Domeinnaam"
+
+#: views/postinstall.html.php:17
+msgid "mydomain.tld"
+msgstr "mijndomein.tld"
+
+#: views/postinstall.html.php:19
+msgid "Admin password"
+msgstr "Admin wachtwoord"
+
+#: views/postinstall.html.php:22
+msgid "Let's go !"
+msgstr "Gaan!"
+
+#: controllers/tools.php:27 controllers/tools.php:82
+msgid "Undefined service."
+msgstr "Onbekende service."
+
+#: controllers/tools.php:85
+msgid "Undefined log file"
+msgstr "Onbekend log bestand"
+
+#: controllers/tools.php:92
+msgid "Log reader"
+msgstr "Log lezer"
+
+#: controllers/tools.php:105
+msgid "Chat"
+msgstr "Chat"
+
+#: controllers/tools.php:115
+msgid "The support chat has been enabled."
+msgstr "De support chat is ingeschakeld."
+
+#: controllers/tools.php:126
+msgid "The support chat has been disabled."
+msgstr "De support chat is uitgeschakeld."
+
+#: controllers/tools.php:199
+msgid "System monitor"
+msgstr "Systeem monitor"
+
+#: controllers/tools.php:217
+msgid "Tasks manager"
+msgstr "Taakbeheer"
+
+#: controllers/tools.php:230 controllers/tools.php:233
+msgid "You have updates on your system"
+msgstr "U heeft updates op uw systeem"
+
+#: controllers/tools.php:236 controllers/tools.php:238
+msgid "Your system is up-to-date"
+msgstr "Uw systeem is up-to-date"
+
+#: controllers/tools.php:292
+msgid "successfully enabled."
+msgstr "succesvol ingeschakeld."
+
+#: controllers/tools.php:295 controllers/tools.php:310
+msgid "Invalid service name."
+msgstr "Ongeldige service naam."
+
+#: controllers/tools.php:307
+msgid "successfully disabled."
+msgstr "succesvol uitgeschakeld."
+
+#: controllers/user.php:41
+msgid "List users"
+msgstr "Overzicht gebruikers"
+
+#: controllers/user.php:74
+msgid ""
+"Welcome aboard! Here is your login and password to connect to your apps."
+msgstr ""
+"Welkom aan boord! Dit zijn uw gebruikersnaam en wachtwoord om toegang te "
+"krijgen tot uw apps."
+
+#: controllers/user.php:75
+msgid "If you want to change your password, click on the link below:"
+msgstr "Als u uw wachtwoord wilt wijzigen klik dan op de link hieronder:"
+
+#: controllers/user.php:77 controllers/user.php:82
+msgid "Username:"
+msgstr "Gebruikersnaam:"
+
+#: controllers/user.php:77 controllers/user.php:83
+msgid "Password:"
+msgstr "Wachtwoord:"
+
+#: controllers/user.php:87
+msgid "Your account details"
+msgstr "Uw account details"
+
+#: controllers/user.php:90
+msgid "Passwords does not match"
+msgstr "Wachtwoord komt niet overeen"
+
+#: controllers/domain.php:36 controllers/domain.php:47
+msgid "List of domains"
+msgstr "Overzicht domeinen"
+
+#: controllers/domain.php:55
+msgid "Domains successfully updated."
+msgstr "Domeinen succesvol geupdate."
+
+#: controllers/other.php:29
+msgid "Welcome !"
+msgstr "Welkom!"
+
+#: config/config.php:123
+msgid "Configuration"
+msgstr "Configuratie"
+
+#: config/config.php:166
+msgid "Error"
+msgstr "Fout"
