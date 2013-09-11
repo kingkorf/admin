@@ -1,7 +1,7 @@
-# English translations for PACKAGE package.
-# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Alexis <kload@kload.fr>, 2012.
+# English translations for YunoHost administration UI
+# Copyright (C) 2012 YunoHost
+# This file is distributed under the same license as the YunoHost administration UI package
+# Alexis <kload@kload.fr>, 2012
 #
 msgid ""
 msgstr ""
